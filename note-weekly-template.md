@@ -1,5 +1,5 @@
 # Week [week#]
-## [month]/[day] - [month]/[day]
+## []/[day] - [month]/[day]
 
 # Topic:
 
